@@ -2,7 +2,7 @@
 2_Advance/
 .vscode/
 .ipynb_checkpoints/
-*.csv/Practice_summarizing_data.ipynb
+Practice_summarizing_data.ipynb
 groupby_pivot_practice.ipynb
 test.ipynb
 test.py
